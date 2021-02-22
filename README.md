@@ -9,16 +9,6 @@ There is a one-to-one correspondence between particles and sound grains.
 
 ### Video Demo
 
-##### Ghost voices
+Some samples of the possible sonic and visual results can be seen at:
 
-##### Wind tunnel
 
-![](video/my_video.mov)
-
-##### Android Xenakis
-
-![](video/my_video.mov)
-
-##### Electric
-
-![](video/my_video.mov)
