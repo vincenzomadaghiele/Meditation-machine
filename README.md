@@ -11,7 +11,9 @@ There is a one-to-one correspondence between particles and sound grains.
 
 ##### Ghost voices
 
-![](https://www.youtube.com/watch?v=5measwXBZKo&t=1s)
+<video width="320" height="240" controls>
+  <source src="video.mov" type="video/mp4">
+</video>
 
 ##### Wind tunnel
 
