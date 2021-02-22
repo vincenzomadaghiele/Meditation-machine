@@ -7,3 +7,20 @@ Meditation Machine is a representation of complexity as human perceive it. As hu
 Meditation machine is the sonification of a particle system using a granular synthesizer.
 There is a one-to-one correspondence between particles and sound grains.
 
+### Video Demo
+
+##### Ghost voices
+
+![](https://www.youtube.com/watch?v=5measwXBZKo&t=1s)
+
+##### Wind tunnel
+
+![](video/my_video.mov)
+
+##### Android Xenakis
+
+![](video/my_video.mov)
+
+##### Electric
+
+![](video/my_video.mov)
