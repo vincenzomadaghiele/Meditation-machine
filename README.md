@@ -1,6 +1,6 @@
 # Meditation-machine
 
-Meditation Machine is a representation of complexity as human perceive it. As human reality, the single particles mutate too fast to be able to grasp each individual movement. If the listeners focuse on a single particle they lose the bigger picture. 
+Meditation Machine is a representation of complexity as human perceive it. As human reality, the single particles mutate too fast to be able to grasp each individual movement. If the listeners focus on a single particle they lose the bigger picture. 
 
 ###### This project builds on the excellent [tutorials on particle systems](https://www.youtube.com/watch?v=jm34IcOOB40&list=PLRc5WfOZXC4kLfuYI5_xtb6-xBF78Z4fv&index=15) by Federico Foderaro - Amazing Max Stuff
 
