@@ -39,6 +39,18 @@
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-131",
+					"linecount" : 3,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 161.0, 564.0, 101.0, 47.0 ],
+					"text" : "reminder: ghost voices with 0.001 is really cool"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"fontface" : 1,
 					"fontsize" : 30.0,
 					"id" : "obj-172",
@@ -853,12 +865,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-148",
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 166.639992132186649, 1692.976679563522339, 115.0, 22.0 ],
-					"text" : "992 457 555 64"
+					"patching_rect" : [ 166.639992132186649, 1692.976679563522339, 115.0, 35.0 ],
+					"text" : "-1883 7008 16666 64"
 				}
 
 			}
