@@ -39,6 +39,31 @@
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-129",
+					"linecount" : 4,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 1502.75, 827.5, 217.350007867813247, 60.0 ],
+					"presentation_linecount" : 4,
+					"text" : "THINGS TO DO:\n- try with surround\n- if surround sounds good try with multiple samples  "
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-46",
+					"linecount" : 2,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 1502.75, 779.5, 217.350007867813247, 33.0 ],
+					"text" : "TO SOLVE THE PROBLEM MANY BUFFER OBJECTS MIGHT BE USED"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"fontface" : 1,
 					"fontsize" : 30.0,
 					"id" : "obj-316",
@@ -57,8 +82,8 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1422.0, 1234.0, 150.0, 33.0 ],
-					"text" : "Play all the samples in the samples folder in order"
+					"patching_rect" : [ 1422.0, 1234.0, 151.0, 33.0 ],
+					"text" : "Play all the samples in the folder in order"
 				}
 
 			}
@@ -234,8 +259,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1396.0, 1327.7700115442276, 289.0, 49.0 ],
-					"presentation_linecount" : 3,
-					"text" : "\"Macintosh HD:/Users/vincenzomadaghiele/Desktop/IDEAS/Meditation_machine/samples/metallophone.wav\""
+					"text" : "\"Macintosh HD:/Users/vincenzomadaghiele/Desktop/IDEAS/Meditation_machine/samples/windmill.wav\""
 				}
 
 			}
@@ -723,7 +747,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 166.639992132186649, 1692.976679563522339, 115.0, 22.0 ],
-					"text" : "-788 7500 333 64"
+					"text" : "0 0 23809 64"
 				}
 
 			}
@@ -2170,6 +2194,7 @@
 													"fontname" : "Arial",
 													"fontsize" : 12.0,
 													"id" : "obj-22",
+													"linecount" : 2,
 													"maxclass" : "newobj",
 													"numinlets" : 0,
 													"numoutlets" : 1,
@@ -2184,7 +2209,7 @@
 													"fontname" : "Arial",
 													"fontsize" : 12.0,
 													"id" : "obj-21",
-													"linecount" : 2,
+													"linecount" : 3,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
