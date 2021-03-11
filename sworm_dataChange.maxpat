@@ -40,13 +40,12 @@
 		"boxes" : [ 			{
 				"box" : 				{
 					"id" : "obj-129",
-					"linecount" : 4,
+					"linecount" : 10,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1502.75, 827.5, 217.350007867813247, 60.0 ],
-					"presentation_linecount" : 4,
-					"text" : "THINGS TO DO:\n- try with surround\n- if surround sounds good try with multiple samples  "
+					"patching_rect" : [ 1502.75, 827.5, 217.350007867813247, 141.0 ],
+					"text" : "THINGS TO DO:\n- try with surround\n- if surround sounds good try with multiple samples \n- use polybuffer with number of tracks depending on the threshold of perception (change one track at a time recursively into polybuffer: make the number of tracks such that the change is not perceived)"
 				}
 
 			}
@@ -259,7 +258,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1396.0, 1327.7700115442276, 289.0, 49.0 ],
-					"text" : "\"Macintosh HD:/Users/vincenzomadaghiele/Desktop/IDEAS/Meditation_machine/samples/windmill.wav\""
+					"text" : "\"Macintosh HD:/Users/vincenzomadaghiele/Desktop/IDEAS/Meditation_machine/samples/K5.slide.aif\""
 				}
 
 			}
@@ -2194,7 +2193,6 @@
 													"fontname" : "Arial",
 													"fontsize" : 12.0,
 													"id" : "obj-22",
-													"linecount" : 2,
 													"maxclass" : "newobj",
 													"numinlets" : 0,
 													"numoutlets" : 1,
@@ -2209,7 +2207,7 @@
 													"fontname" : "Arial",
 													"fontsize" : 12.0,
 													"id" : "obj-21",
-													"linecount" : 3,
+													"linecount" : 2,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
@@ -2665,14 +2663,14 @@
 					"patching_rect" : [ 942.783325465519965, 1806.476679563522339, 232.0, 47.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_shortname" : "live.gain~",
+							"parameter_type" : 0,
+							"parameter_unitstyle" : 4,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "live.gain~",
 							"parameter_initial_enable" : 1,
 							"parameter_mmax" : 6.0,
-							"parameter_initial" : [ -18 ],
-							"parameter_shortname" : "live.gain~",
-							"parameter_type" : 0,
-							"parameter_unitstyle" : 4
+							"parameter_initial" : [ -18 ]
 						}
 
 					}
