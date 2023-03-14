@@ -1,6 +1,6 @@
 # Meditation Machine
 
-[![]([https://github.com/vincenzomadaghiele/A-Stubborn-Illusion/blob/main/imgs/ASI1.png](https://github.com/vincenzomadaghiele/Meditation-machine/blob/master/samples/img.png))](https://vimeo.com/showcase/8166706 "Meditation Machine - Vincenzo Madaghiele")
+[![](https://github.com/vincenzomadaghiele/Meditation-machine/blob/master/samples/img.png)](https://vimeo.com/showcase/8166706 "Meditation Machine - Vincenzo Madaghiele")
 
 Meditation Machine is a representation of complexity as human perceive it. As human reality, the single particles mutate too fast to be able to grasp each individual movement. If the listeners focus on a single particle they lose the bigger picture.
 
